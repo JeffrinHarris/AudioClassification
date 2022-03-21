@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Dataset
+AudioDataset/
+
 # Session Data files
 .RData
 
